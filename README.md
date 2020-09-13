@@ -2,6 +2,9 @@
 
 Upload stdin contents to Google Drive.
 
+## TODO
+
+- [ ] handle HTTP error (4xx, 5xx)
 
 ## Requirements
 
