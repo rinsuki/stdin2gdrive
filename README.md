@@ -5,7 +5,7 @@ Upload stdin contents to Google Drive.
 
 ## Requirements
 
-- Shared Drive (it needs G Suite)
+- Team Drive (it needs G Suite)
 - Service Account with Google Drive API enabled
 - JSON Key File of Service Account
 
